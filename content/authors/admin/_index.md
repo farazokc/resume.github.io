@@ -47,10 +47,10 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Javascript
+      - name: HTML, CSS, Javascript
         description: ''
         percent: 70
-        icon: js
+        icon: html5, css3, js
         icon_pack: fab
       - name: React
         description: ''
@@ -62,10 +62,15 @@ skills:
         percent: 55
         icon: node
         icon_pack: fab
-      - name: Node JS
+      - name: PHP
         description: ''
-        percent: 55
-        icon: node
+        percent: 70
+        icon: php
+        icon_pack: fab
+      - name: PHP
+        description: ''
+        percent: 70
+        icon: php
         icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
