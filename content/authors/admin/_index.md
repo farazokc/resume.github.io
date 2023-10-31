@@ -25,7 +25,7 @@ organizations:
     url: https://www.nu.edu.pk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently experimenting with multiple things, trying to find my research interests 😵
+bio: Currently experimenting with different research branches, finding one that fits my interests 😵
 
 # Interests to show in About widget
 interests:
@@ -49,48 +49,53 @@ skills:
     items:
       - name: HTML, CSS, Javascript
         description: ''
-        percent: 70
-        icon: html5, css3, js
+        percent: 85
+        icon: square-js
         icon_pack: fab
       - name: React
         description: ''
-        percent: 60
+        percent: 70
         icon: react
         icon_pack: fab
       - name: Node JS
         description: ''
-        percent: 55
+        percent: 65
         icon: node
         icon_pack: fab
-      - name: PHP
+      - name: Python
         description: ''
-        percent: 70
-        icon: php
+        percent: 75
+        icon: python
         icon_pack: fab
       - name: PHP
         description: ''
         percent: 70
         icon: php
         icon_pack: fab
+      - name: RDBMS
+        description: ''
+        percent: 70
+        icon: database
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Table tennis
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 70
+        icon: table-tennis-paddle-ball
         icon_pack: fas
       - name: Cats
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Gaming
         description: ''
         percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        icon: steam
+        icon_pack: fab
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -99,32 +104,32 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:faraz29103@gmail.com'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/farazokc
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/faraznp/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/faraz_resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Faraz Naeem is a student of software engineering at FAST-NUCES, Karachi campus. He's trying to find his specific research interest in the field of AI. He currently works on freelance projects on several technologies.
 {style="text-align: justify;"}
