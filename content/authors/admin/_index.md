@@ -33,7 +33,7 @@ interests:
   - Artificial Intelligence
   - Cats
   - Gaming
-  - Anime
+  - Space
 
 # Education to show in About widget
 education:
@@ -49,7 +49,7 @@ skills:
     items:
       - name: HTML, CSS, Javascript
         description: ''
-        percent: 85
+        percent: 90
         icon: square-js
         icon_pack: fab
       - name: React
@@ -57,14 +57,14 @@ skills:
         percent: 70
         icon: react
         icon_pack: fab
-      - name: Node JS
+      - name: NodeJS, Express
         description: ''
-        percent: 65
+        percent: 70
         icon: node
         icon_pack: fab
       - name: Python
         description: ''
-        percent: 75
+        percent: 65
         icon: python
         icon_pack: fab
       - name: PHP
@@ -74,28 +74,38 @@ skills:
         icon_pack: fab
       - name: MySQL, Oracle SQL
         description: ''
-        percent: 70
+        percent: 80
         icon: database
+        icon_pack: fas
+      - name: Hugo
+        description: ''
+        percent: 60
+        icon: h
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Table tennis
-        description: ''
-        percent: 70
-        icon: table-tennis-paddle-ball
-        icon_pack: fas
       - name: Cats
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
+      - name: Table tennis
+        description: ''
+        percent: 70
+        icon: table-tennis-paddle-ball
+        icon_pack: fas
       - name: Gaming
         description: ''
-        percent: 80
+        percent: 70
         icon: steam
         icon_pack: fab
+      - name: Reading
+        description: ''
+        percent: 80
+        icon: book-open
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -131,7 +141,5 @@ social:
 highlight_name: true
 ---
 
-Faraz Naeem is a student of software engineering at FAST-NUCES, Karachi campus. 
-He currently works on freelance projects on a number of different technologies. 
-He is also trying to find his research interest in the field of AI.
+Hi, I'm Faraz Naeem, a student of software engineering at FAST-NUCES in Karachi. Apart from my studies, I also work on freelance projects involving different technologies. I'm currently exploring my interest in AI research.
 {style="text-align: justify;"}
