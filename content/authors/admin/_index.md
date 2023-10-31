@@ -25,7 +25,7 @@ organizations:
     url: https://www.nu.edu.pk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently experimenting with different research branches, finding one that fits my interests 😵
+bio: Currently experimenting with different research branches 😝, finding one that fits my interests 😵
 
 # Interests to show in About widget
 interests:
@@ -69,10 +69,10 @@ skills:
         icon_pack: fab
       - name: PHP
         description: ''
-        percent: 70
+        percent: 75
         icon: php
         icon_pack: fab
-      - name: RDBMS
+      - name: MySQL, Oracle SQL
         description: ''
         percent: 70
         icon: database
@@ -131,5 +131,7 @@ social:
 highlight_name: true
 ---
 
-Faraz Naeem is a student of software engineering at FAST-NUCES, Karachi campus. He's trying to find his specific research interest in the field of AI. He currently works on freelance projects on several technologies.
+Faraz Naeem is a student of software engineering at FAST-NUCES, Karachi campus. 
+He currently works on freelance projects on a number of different technologies. 
+He is also trying to find his research interest in the field of AI.
 {style="text-align: justify;"}
