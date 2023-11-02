@@ -52,6 +52,16 @@ skills:
         percent: 90
         icon: square-js
         icon_pack: fab
+      - name: MySQL, Oracle SQL
+        description: ''
+        percent: 80
+        icon: database
+        icon_pack: fas
+      - name: PHP
+        description: ''
+        percent: 75
+        icon: php
+        icon_pack: fab
       - name: React
         description: ''
         percent: 70
@@ -67,16 +77,6 @@ skills:
         percent: 65
         icon: python
         icon_pack: fab
-      - name: PHP
-        description: ''
-        percent: 75
-        icon: php
-        icon_pack: fab
-      - name: MySQL, Oracle SQL
-        description: ''
-        percent: 80
-        icon: database
-        icon_pack: fas
       - name: Hugo
         description: ''
         percent: 60
@@ -91,21 +91,21 @@ skills:
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Table tennis
-        description: ''
-        percent: 70
-        icon: table-tennis-paddle-ball
-        icon_pack: fas
-      - name: Gaming
-        description: ''
-        percent: 70
-        icon: steam
-        icon_pack: fab
       - name: Reading
         description: ''
         percent: 80
         icon: book-open
         icon_pack: fas
+      - name: Snooker
+        description: ''
+        percent: 70
+        icon: ranking-star
+        icon_pack: fas
+      - name: Gaming
+        description: ''
+        percent: 60
+        icon: steam
+        icon_pack: fab
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
