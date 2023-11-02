@@ -99,7 +99,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://khi.nu.edu.pk/
-          date_end: '2024-06-31'
+          date_end: ''
           date_start: '2020-08-15'
           description: ''
           organization: FAST - NUCES
